@@ -8,3 +8,4 @@ C:\Users\Digixhub Employee\Documents\Visual Studio 2015\Projects\sockets\sockets
 C:\Users\Digixhub Employee\Source\Repos\Test2\sockets\bin\Debug\sockets.exe.config
 C:\Users\Digixhub Employee\Source\Repos\Test2\sockets\obj\Debug\sockets.exe
 C:\Users\Digixhub Employee\Source\Repos\Test2\sockets\obj\Debug\sockets.pdb
+C:\Users\Nitin Jagtiani\Source\Repos\Test\sockets\bin\Debug\sockets.exe.config
