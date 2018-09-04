@@ -17,7 +17,7 @@ namespace sockets
         {
             try//commiting
             {
-                //using (ClientWebSocket ws = new ClientWebSocket())
+                //using (ClientWebSocket ws = new ClientWebSocket()) //diff branch
                 //{
                 //    //Uri serverUri = new Uri("wss://clientapi.mickrex.com/api/balance/getbalance?sessionToken={sessionToken}");
                 //    Uri serverUri = new Uri("ws://reqres.in/api/users");
