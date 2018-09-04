@@ -1,0 +1,10 @@
+C:\Users\Digixhub Employee\Documents\Visual Studio 2015\Projects\sockets\sockets\bin\Debug\sockets.exe.config
+C:\Users\Digixhub Employee\Documents\Visual Studio 2015\Projects\sockets\sockets\bin\Debug\sockets.exe
+C:\Users\Digixhub Employee\Documents\Visual Studio 2015\Projects\sockets\sockets\bin\Debug\sockets.pdb
+C:\Users\Digixhub Employee\Documents\Visual Studio 2015\Projects\sockets\sockets\bin\Debug\websocket-sharp-with-proxy-support.dll
+C:\Users\Digixhub Employee\Documents\Visual Studio 2015\Projects\sockets\sockets\obj\Debug\sockets.exe
+C:\Users\Digixhub Employee\Documents\Visual Studio 2015\Projects\sockets\sockets\obj\Debug\sockets.pdb
+C:\Users\Digixhub Employee\Documents\Visual Studio 2015\Projects\sockets\sockets\obj\Debug\sockets.csprojResolveAssemblyReference.cache
+C:\Users\Digixhub Employee\Source\Repos\Test2\sockets\bin\Debug\sockets.exe.config
+C:\Users\Digixhub Employee\Source\Repos\Test2\sockets\obj\Debug\sockets.exe
+C:\Users\Digixhub Employee\Source\Repos\Test2\sockets\obj\Debug\sockets.pdb
